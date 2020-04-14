@@ -1,6 +1,6 @@
 
 
-###Prestashop 1.6 plugin Kashier 
+### Prestashop 1.6 plugin Kashier 
 
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/kashier-logo.png)
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/presta-logo.png)
@@ -15,17 +15,19 @@
 
 
 [TOCM]
-###Download the plugin
+
+### Download the plugin
 
 - Download kashier.zip https://github.com//Kashier-payments/kashier-prestashop-1.6/raw/master/kashier.zip
 
-###Obtain Merchant ID and Test Api Key
+### Obtain Merchant ID and Test Api Key
 
 - Login or Sign up on kashier.io https://merchant.kashier.io/
 - 
-###Support
-###Install plugin
-###Test plugin
-###Go live
-###Support
+
+### Support
+### Install plugin
+### Test plugin
+### Go live
+### Support
 
