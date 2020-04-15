@@ -59,8 +59,8 @@
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-5-Method%20appears%20in%20payment%20section.png)
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-6-pay%20now%20button.png)
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-7-0-iframe-%20render.png)
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-7-1-Order%20Accepted screen.png)
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-7-2-Orders%20payment accepted%20and%20transaction%20id.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-7-1-Order%20Accepted%20screen.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-7-2-Orders%20payment%20accepted%20and%20transaction%20id.png)
 ### Go live
 
 - After activating your account.
