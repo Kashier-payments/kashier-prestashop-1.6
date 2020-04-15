@@ -31,6 +31,7 @@
 - Enable and Configure your plugin.
 
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-2-success%20installation.png)
+
 ### Obtain Test Credentials
 
 - Login or Sign up on kashier.io https://merchant.kashier.io/
@@ -40,6 +41,7 @@
 - Generate a new api key with your prefered name that describes your integration channel, there is 1 default api key you could use that is created when signing up.
 
 - Copy Merchant ID visible under your user name "MID-xx-xx".
+
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-3-obtain%20test%20api%20keys.png)
 
 - Insert the MID and Test Api Key in the Configuration page of the module.
@@ -57,10 +59,15 @@
 - After proceeding you will find a Kashier "pay now" button, fill in the test card and proceed to make a payment.
 
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-5-Method%20appears%20in%20payment%20section.png)
+
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-6-pay%20now%20button.png)
+
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-7-0-iframe-%20render.png)
+
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-7-1-Order%20Accepted%20screen.png)
+
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-7-2-Orders%20payment%20accepted%20and%20transaction%20id.png)
+
 ### Go live
 
 - After activating your account.
