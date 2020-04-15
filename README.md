@@ -40,7 +40,7 @@
 - Generate a new api key with your prefered name that describes your integration channel, there is 1 default api key you could use that is created when signing up.
 
 - Copy Merchant ID visible under your user name "MID-xx-xx".
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-3-obtain test api keys.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-3-obtain%20test%20api%20keys.png)
 
 - Insert the MID and Test Api Key in the Configuration page of the module.
 
@@ -48,7 +48,7 @@
 
 - Save configuration.
 
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-4-insert test configuration.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-4-insert%20test%20configuration.png)
 
 ### Test plugin 
 
@@ -60,7 +60,7 @@
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-6-pay now button.png)
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-7-0-iframe- render.png)
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-7-1-Order Accepted screen.png)
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-7-2-Orders payment accepted and transaction id.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-7-2-Orders%20payment accepted%20and%20transaction%20id.png)
 ### Go live
 
 - After activating your account.
