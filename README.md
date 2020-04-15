@@ -26,11 +26,11 @@
 
 - Upload the plugin on prestashop.
 
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-1-upload plugin.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-1-upload%20plugin.png)
 
 - Enable and Configure your plugin.
 
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-2-success installation.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-2-success%20installation.png)
 ### Obtain Test Credentials
 
 - Login or Sign up on kashier.io https://merchant.kashier.io/
@@ -56,10 +56,10 @@
 
 - After proceeding you will find a Kashier "pay now" button, fill in the test card and proceed to make a payment.
 
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-5-Method appears in payment section.png)
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-6-pay now button.png)
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-7-0-iframe- render.png)
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-7-1-Order Accepted screen.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-5-Method%20appears%20in%20payment%20section.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-6-pay%20now%20button.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-7-0-iframe-%20render.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-7-1-Order%20Accepted screen.png)
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-7-2-Orders%20payment accepted%20and%20transaction%20id.png)
 ### Go live
 
@@ -71,7 +71,7 @@
 
 - Generate a new api key with your prefered name that describes your integration channel, there is 1 default api key you could use that is created when signing up.
 
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-8-0-Live api keys.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-8-0-Live%20api%20keys.png)
 
 - Insert Live Api Key in the Configuration page of the module.
 
@@ -79,7 +79,7 @@
 
 - Save configuration.
 
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-8-1-Live configuration.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-8-1-Live%20configuration.png)
 
 ### Support
 ##### Success Order state change
@@ -89,7 +89,7 @@
 ##### Enable and disable currency
 - If there is a currency not supported by kashier, you could just disable it from "Modules and Service > Payments".
 
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-9-Enable and disable kashier on currencies.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-9-Enable%20and%20disable%20kashier%20on%20currencies.png)
 
 - Leave us an inquiry ticket on https://kashier.io for questions.
 
