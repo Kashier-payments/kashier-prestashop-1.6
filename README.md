@@ -98,5 +98,9 @@
 
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-9-Enable%20and%20disable%20kashier%20on%20currencies.png)
 
+### Notes
+
+- Make sure to disable "Performance > Advanced performance parameters > Move javascript to the end", if the IFrame button is not visible.
+
 - Leave us an inquiry ticket on https://kashier.io for questions.
 
