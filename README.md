@@ -42,7 +42,7 @@
 
 - Copy Merchant ID visible under your user name "MID-xx-xx".
 
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-3-obtain%20test%20api%20keys.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/apikey_mid_test.png)
 
 - Insert the MID and Test Api Key in the Configuration page of the module.
 
@@ -78,7 +78,7 @@
 
 - Generate a new api key with your prefered name that describes your integration channel, there is 1 default api key you could use that is created when signing up.
 
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/install-8-0-Live%20api%20keys.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/apikey_mid_live.png)
 
 - Insert Live Api Key in the Configuration page of the module.
 
