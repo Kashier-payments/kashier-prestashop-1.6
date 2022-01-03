@@ -36,7 +36,7 @@
 
 - Login or Sign up on kashier.io https://merchant.kashier.io/
 
-- Navigate to Integrate now section > customizable forms api keys.
+- Navigate to Integrate now section > Payment API keys
 
 - Generate a new api key with your prefered name that describes your integration channel, there is 1 default api key you could use that is created when signing up.
 
@@ -74,7 +74,7 @@
 
 - Make sure you are on live mode.
 
-- Navigate to Integrate now section > customizable forms api keys
+- Navigate to Integrate now section > Payment API keys
 
 - Generate a new api key with your prefered name that describes your integration channel, there is 1 default api key you could use that is created when signing up.
 
